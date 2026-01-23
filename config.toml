@@ -1,0 +1,7 @@
+base_url = "/"
+title = "Prayer Times"
+compile_sass = false
+build_search_index = false
+
+[markdown]
+
